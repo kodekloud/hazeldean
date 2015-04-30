@@ -72,6 +72,37 @@
                     <p class="directory_content">{{name}}</p>
                     <p class="directory_content">{{address1}}</p>
                     <p class="directory_content">{{city}}, {{province_state}} {{postal_code}}</p>
+                    <br>
+                    <p class="directory_content"><strong>Cindy Lavign</strong> 
+                    <br>General Manager
+                    <br>613-592-7515
+                    <br><a href="mailto:clavigne@bentallkennedy.com ">clavigne@bentallkennedy.com</a></p>
+                    <br>
+                    <p class="directory_content"><strong>Mark Echlin</strong> 
+                    <br>Operations Manager
+                    <br>613-592-4614
+                    <br><a href="mailto:mechlin@bentallkennedy.com">mechlin@bentallkennedy.com</a></p>
+                    <br>
+                   <p class="directory_content"><strong>Melanie Westland</strong> 
+                   <br>Marketing Director
+                   <br>613-592-6184
+                   <br><a href="mailto:mwestland@bentallkennedy.com" target="_blank">mwestland@bentallkennedy.com</a></p>
+                   <br>
+                   <p class="directory_content"><strong>Teresa Savoie</strong> 
+                   <br>Retail Accounts Coordinator
+                   <br>416-591-2220 ext 31
+                   <br><a href="mailto:tsavoie@bentallkennedy.com" target="_blank">tsavoie@bentallkennedy.com</a></p>
+                   <br>
+                   <p class="directory_content"><strong>Leanne Burley</strong> 
+                   <br>Administrative Assitant
+                   <br>613-592-0095
+                   <br><a href="mailto:lburley@bentallkennedy.com" target="_blank">lburley@bentallkennedy.com</a></p>
+                   <br>
+                   <p class="directory_content"><strong>Security</strong> 
+                   <br>613-227-1711
+                   <br><a href="mailto:HazeldeanMallSecurity@BentallKennedy.com" target="_blank">HazeldeanMallSecurity@BentallKennedy.com</a></p>
+                  
+                   
                 </script>
             </div>
             
