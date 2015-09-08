@@ -63,7 +63,7 @@
         {{name}}
     </div>
     <div class="inside_page_content">
-        <img class="contest_image" src="http://cdn.mallmaverick.com/system/site_images/photos/000/007/221/original/beautyshot_edited.jpg?1424887767" />
+        <img class="contest_image" src="{{alt_photo_url}}" />
      <br>
      <div class="contest_form_div">
            <p class="contest_description">{{description}}</p>
